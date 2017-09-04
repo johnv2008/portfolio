@@ -1,0 +1,57 @@
+html {
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/5c/15/71/5c157124a5a72d7fd25d3242f0a9a616.jpg");
+}
+
+.h1, h1 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 30px;
+  color: white;
+}
+
+h2 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+
+
+/*USER INPUT*/
+
+#search {
+  width: 100%;
+  height: 45px;
+  font-size: 18px;
+  color: black;
+}
+
+
+/* SUBMIT BUTTON */
+
+
+/* RESULTS DISPLAY */
+
+#results {
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+  color: white;
+}
+
+
+/*JAVASCRIPT CREATED ITEMS*/
+
+.item {
+  height: 250px;
+  padding-top: 20px;
+  border-bottom: 1px solid gray;
+}
+
+.item img {
+  width: 128px;
+  height: 200px;
+  float: right;
+}
